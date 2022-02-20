@@ -1,0 +1,362 @@
+*{
+
+    margin:0;
+
+    padding:0;
+
+}
+
+
+
+body{
+
+    background-color:rgb(238, 228, 228);
+
+}
+
+
+
+h2{
+
+    font-size:22px;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+
+p{
+
+    font-size:20px;
+
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.mainContainer{
+
+    width:1000px;
+
+    height:1300px;
+
+    border:2px solid white;
+
+    position:absolute;
+
+    top:0px;
+
+    left:400px;
+
+    background-color: white;
+
+}
+
+
+
+nav{
+
+    background-color: #166974;    
+
+    height:200px;
+
+    
+
+}
+
+
+
+.heading{
+
+    background-color: #166974; 
+
+    padding-top:40px; 
+
+     padding-left:200px;
+
+    font-family: 'Redressed', cursive;
+
+    display: flex;
+
+    flex-direction: column;
+
+    color:white;       
+
+}
+
+
+
+.image img{
+
+    background-color: whitesmoke ;  
+
+    position:absolute;
+
+    top:20px;
+
+    left:750px;
+
+   border:2px solid white;
+
+    height:150px;
+
+    width:150px;
+
+}
+
+
+
+nav h1{
+
+    font-size: 55px;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+nav h3{
+
+    font-size: 35px;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+
+
+.container{
+
+    display:flex;
+
+    height:90vh;
+
+}
+
+
+
+.firstHalf{
+
+    width:60%;
+
+}
+
+
+
+.firstHalf h1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+.college{
+
+    padding:10px 5px;
+
+    margin:10px 5px;
+
+}
+
+
+
+.college h1,.Projects h1,.skillContainer h1,.secondHalf h1{
+
+    background-color: #166974;
+
+    border:2px solid #166974;
+
+    color:white;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+
+
+.twelveth{
+
+    padding:10px 5px;
+
+    margin:10px 5px;
+
+    font-family: 'Roboto Slab', serif;
+
+}
+
+
+
+.tenth{
+
+    padding:2px 5px;
+
+    margin:2px 5px;
+
+}
+
+
+
+ .project1,.project2,.project3{
+
+    padding:4px 5px;
+
+    margin:4px 5px;
+
+}
+
+
+
+
+
+.secondHalf{
+
+   width:40%;
+
+   background-color:whitesmoke; 
+
+   height:1000px;    
+
+}
+
+
+
+.secondHalf p{
+
+    margin-top:10px;
+
+}
+
+
+
+.skillContainer{
+
+    padding:12px;
+
+}
+
+
+
+.skillItem{
+
+    display: flex;
+
+    align-items: center;
+
+    font-weight: 900;
+
+    margin:3px;
+
+}
+
+
+
+.skill{
+
+    width:265px;
+
+    height:10px;
+
+    background-color: #166974;
+
+}
+
+
+
+.twentyFive{
+
+     width:100px;
+
+     background-color: #166974;
+
+}
+
+
+
+.Fifty{
+
+     width:200px;
+
+     background-color:#166974;
+
+}
+
+
+
+.seventyFive{
+
+       width:350px;
+
+       background-color: #166974;
+
+}
+
+
+
+.Hundred{
+
+      width:500px;
+
+      background-color:#166974; 
+
+}
+
+
+
+.certificates{
+
+    padding:10px 10px;
+
+    margin:10px 10px;
+
+    
+
+}
+
+
+
+.firstHalf h1, .certificates h1{
+
+    margin-bottom:9px;
+
+}
+
+
+
+.coursera{
+
+    padding:0px 5px;
+
+    margin:0px 5px;
+
+}
+
+
+
+.CSS,.SQL,.address{
+
+    padding:5px 5px;
+
+    margin:5px 5px;
+
+}
+
+
+
+.address p{
+
+    font-size:20px;
+
+   
+
+}
+
+
+
